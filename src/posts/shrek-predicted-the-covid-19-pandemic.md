@@ -8,7 +8,7 @@ tags:
   - memes
 ---
 Find out how Shrek is disrupting astrology.\
-Please watch [this informational video](https://youtu.be/dQw4w9WgXcQ) to learn more.\
+Please watch [this informational video](https://www.youtube.com/watch?v=xvFZjo5PgG0) to learn more.\
 \
 \
 \
