@@ -1,12 +1,15 @@
 ---
 layout: home
-title: A simple starter kit for Eleventy
+title: Hi! I'm Alex Azarov
+metaDesc: This is a personal blog and website of Alexander Azarov. I'm a
+  software developer.
 postsHeading: Latest posts
 archiveButtonText: See all posts
-metaDesc: 'Hylia is a lightweight Eleventy starter kit to help you to create your own blog or personal website.'
-socialImage: ''
+socialImage: ""
 ---
-
-Hylia is a lightweight [Eleventy](https://11ty.io) starter kit with [Netlify CMS](https://www.netlifycms.org/) pre-configured, so that you can one-click install a progressive, accessible blog in minutes. It also gives you a well organised starting point to extend yourself. It’s by [Andy Bell](https://twitter.com/hankchizljaw) and [friends](https://github.com/aarongustafson/hylia/graphs/contributors).
-
-Get started now by [deploying Hylia to Netlify.](https://app.netlify.com/start/deploy?repository=https://github.com/hankchizljaw/hylia&stack=cms)
+🍎 iOS Software Engineer at [Mapbox](https://mapbox.com).\
+I currently reside in Minsk, Belarus.\
+\
+On this blog, I mostly write about Software Development, but I also like learning French 🇫🇷 and making music 🎹.\
+\
+Contact me on [Telegram](https://t.me/azarovalex), [LinkedIn](https://www.linkedin.com/in/azarovalex), or e-mail me directly at [alex@azarov.by](mailto:alex@azarov.by).
