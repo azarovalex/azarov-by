@@ -7,9 +7,8 @@ tags:
   - first-post
   - memes
 ---
-Please watch [this informational video](https://youtu.be/dQw4w9WgXcQ) to learn more.
-
-\
+Find out how Shrek is disrupting astrology.\
+Please watch [this informational video](https://youtu.be/dQw4w9WgXcQ) to learn more.\
 \
 \
 \
