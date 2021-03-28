@@ -7,13 +7,13 @@
     },
     {
       "text": "GitHub",
-      "url": "https://github.com/hankchizljaw/hylia",
+      "url": "https://github.com/azarovalex",
       "external": true
     },
     {
-      "text": "Example Contact Page",
-      "url": "/contact",
-      "external": false
+      "text": "Telegram",
+      "url": "https://t.me/azarovalex",
+      "external": true
     }
   ]
 }
