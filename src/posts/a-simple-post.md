@@ -1,6 +1,6 @@
 ---
 title: A simple post
-date: '2019-06-18'
+date: 2022-06-29T21:00:00.000Z
 tags:
   - demo-content
   - simple-post
