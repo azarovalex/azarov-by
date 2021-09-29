@@ -8,8 +8,8 @@ archiveButtonText: See all posts
 socialImage: ""
 ---
 🍎 iOS Software Engineer at [Mapbox](https://mapbox.com).\
-I currently reside in Minsk, Belarus.\
+I currently reside somewhere in Europe.\
 \
 On this blog, I mostly write about Software Development, but I also like learning French 🇫🇷 and making music 🎹.\
 \
-Contact me on [Telegram](https://t.me/azarovalex), [LinkedIn](https://www.linkedin.com/in/azarovalex), or e-mail me directly at [alex@azarov.by](mailto:alex@azarov.by).
+Contact me on [Telegram](https://t.me/azarovalex), [LinkedIn](https://www.linkedin.com/in/azarovalex), or e-mail me directly at [alex@azarov.eu](mailto:alex@azarov.by).
