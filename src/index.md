@@ -7,7 +7,7 @@ postsHeading: Latest posts
 archiveButtonText: See all posts
 socialImage: ""
 ---
-🍎 iOS Software Engineer at [Mapbox](https://mapbox.com).\
+🍎 Software Engineer at [Waymo](https://waymo.com), shaping the future of transportation through self-driving cars. Previously [Mapbox](https://mapbox.com) and [Yandex](https://en.wikipedia.org/wiki/Yandex).\
 I currently reside somewhere in Europe.\
 \
 On this blog, I mostly write about Software Development, but I also like learning French 🇫🇷 and making music 🎹.\
