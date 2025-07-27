@@ -8,8 +8,8 @@ archiveButtonText: See all posts
 socialImage: ""
 ---
 🍎 Software Engineer at [Waymo](https://waymo.com), shaping the future of transportation through self-driving cars. Previously [Mapbox](https://mapbox.com) and [Yandex](https://en.wikipedia.org/wiki/Yandex).\
-I currently reside somewhere in Europe.\
+Based in Europe.\
 \
 On this blog, I mostly write about Software Development, but I also like learning French 🇫🇷 and making music 🎹.\
 \
-Contact me on [Telegram](https://t.me/azarovalex), [LinkedIn](https://www.linkedin.com/in/azarovalex), or e-mail me directly at [alex@azarov.eu](mailto:alex@azarov.by).
+Contact me on [Telegram](https://t.me/azarovalex) or [LinkedIn](https://www.linkedin.com/in/azarovalex).
