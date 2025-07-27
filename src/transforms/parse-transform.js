@@ -17,6 +17,16 @@ module.exports = function(value, outputPath) {
     ];
     const articleEmbeds = [...document.querySelectorAll('main article iframe')];
 
+    // Preload the main font to avoid FOUT (Flash of Unstyled Text)
+    const preloadFontLink = document.createElement('link');
+    preloadFontLink.rel = 'preload';
+    preloadFontLink.href = '/fonts/lora-v13-latin-700.woff';
+    preloadFontLink.as = 'font';
+    preloadFontLink.type = 'font/woff';
+    preloadFontLink.crossOrigin = 'anonymous';
+
+    document.head.prepend(preloadFontLink);
+
     if (articleImages.length) {
       articleImages.forEach(image => {
         image.setAttribute('loading', 'lazy');
