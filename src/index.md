@@ -1,4 +1,5 @@
 ---
+permalink: /old/
 layout: home
 title: Hi! I'm Alex Azarov
 metaDesc: This is a personal blog and website of Alexander Azarov. I'm a
