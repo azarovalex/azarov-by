@@ -1,0 +1,103 @@
+---
+permalink: /new/
+layout: false
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image with Iframe Overlay</title>
+    <style>
+        /* Basic styles for the page body */
+        body {
+            margin: 0;
+            /* Adds some padding above and below the container */
+            padding: 25px 0;
+            background-color: #1f1818;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        /*
+         1. The main container that holds the image and iframe.
+         2. Its dimensions are set to the image's size.
+         3. 'position: relative' makes it the coordinate system for its children.
+         4. 'margin: 0 auto' centers the container horizontally.
+        */
+        .frame-container {
+            position: relative;
+            width: 1050px;
+            height: 1454px;
+            margin: 0 auto;
+        }
+
+        /*
+         The background image.
+         'position: absolute' places it relative to the container.
+         'z-index: 1' puts it on the bottom layer.
+        */
+        .frame-container .background-image {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            z-index: 1;
+        }
+
+        /*
+         The iframe that fits into the image cutout.
+         'position: absolute' places it relative to the container.
+         'z-index: 2' puts it on top of the image.
+        */
+        .frame-container iframe {
+            position: absolute;
+            width: 768px;
+            height: 513px;
+
+            top: 194px;
+            left: 141px;
+            border: none; /* Removes the default iframe border */
+            z-index: 2;
+            border-radius: 10px;
+        }
+
+        /* Styles for the attribution footer */
+        footer {
+            text-align: center;
+            padding: 25px 15px;
+            margin-top: 25px;
+            /* Changed background to dark for contrast with white links */
+            /* background-color: #2a2a2a; */
+            /* Changed text color to light grey */
+            color: #aaa;
+            font-size: 14px;
+        }
+
+        footer a {
+            /* Changed link color to white */
+            color: #FFFFFF;
+            text-decoration: none;
+        }
+
+        footer a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="frame-container">
+        <iframe src="https://infinitemac.org/embed?disk_url=https%3A%2F%2Fweb.archive.org%2Fweb%2F20250802005046if_%2Fhttps%3A%2F%2Fazarov.uk%2Fimages%2Fbootloader.png&machine=Mac+128K&screen_scale=1.5&settings=%7B%22speed%22%3A1.5%7D"
+        width="768" height="513" allow="cross-origin-isolated" frameborder="0">
+        </iframe>
+        <img class="background-image" src="/images/Macintosh.png" alt="Background with a cutout area">
+    </div>
+    <footer>
+        <p>
+            Macintosh emulation by <a href="https://infinitemac.org" target="_blank" rel="noopener noreferrer">infinitemac.org</a> and <a href="https://www.gryphel.com/c/minivmac/" target="_blank" rel="noopener noreferrer">the Gryphel Project</a>.
+            <br>
+            Macintosh 128k asset courtesy of <a href="https://www.figma.com/community/file/1067604297402260264/macintosh-128k" target="_blank" rel="noopener noreferrer">Figma team</a>.
+        </p>
+    </footer>
+</body>
+</html>
